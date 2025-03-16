@@ -2,13 +2,18 @@
 TCSS 496 - Park Platform Design Activity for "The Visionaries"
 Group Members: Alexander Pham, Alexander Petrik, Seth Campbell, Kobe Benavente, Benjamin Petrik, Mustafa Abdi
 
+Project Description
+
+  Teams are tasked with creating initial interface designs for a neighborhood park information-sharing platform. Currently, there is a notable absence of an all-in-one information-sharing platform for neighborhood parks, compelling users to scour multiple websites for essential details. This fragmented information landscape leads to inconvenience and potential 
+misinformation for community members seeking accurate insights into park amenities, safety ratings, and user experiences. For this problem/solution, we will consider a neighborhood park as an outdoor space maintained by the city or homeowners association (HOA) and located within a residential area, with the following essential amenities: a child play area or playset, picnic area, and a grassy field for recreational activities. We aim to bridge this informational gap by offering a centralized platform where the public can easily access reliable and up-to-date data on park facilities. To stand out from other platforms, our solution will feature user-reported statistics to guide users to the right park. Overall, our goal is to provide a trustworthy, one-stop platform for users to access accurate data on outdoor facilities.
+
 The Purpose of the Park Platform App is to:
 
-  -Allows users to see all parks on one platform​ 
-  -Allows a collaborative user experience​ 
-  -Allows for users to filter specific parks to their liking​ 
-  -Allows viewers to see user ratings on parks 
-  -Allows users to notify others of issues that may arise in a park
+  -Allows users to see all parks on one platform​  
+  -Allows a collaborative user experience​  
+  -Allows for users to filter specific parks to their liking​  
+  -Allows viewers to see user ratings on parks  
+  -Allows users to notify others of issues that may arise in a park  
 
 Why the selected task was important for the platform.
 
